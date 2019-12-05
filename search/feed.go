@@ -26,3 +26,5 @@ func RetrieveFeeds() ([]*Feed, error) {
 
 	return feeds, err
 }
+
+// This is so confusing
